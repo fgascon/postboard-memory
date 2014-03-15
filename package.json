@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/fgascon/postboard-memory",
   "dependencies": {
-    "postboard": "0.0.0"
+    "postboard": "0.0.1"
   },
   "devDependencies": {
     "express": "^3.4.8"
