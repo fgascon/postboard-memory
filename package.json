@@ -1,0 +1,28 @@
+{
+  "name": "postboard-memory",
+  "version": "0.0.0",
+  "description": "In memory store for PostBoard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fgascon/postboard-memory"
+  },
+  "keywords": [
+    "postboard"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/postboard-memory/issues"
+  },
+  "homepage": "https://github.com/fgascon/postboard-memory",
+  "dependencies": {
+    "postboard": "0.0.0"
+  },
+  "devDependencies": {
+    "express": "^3.4.8"
+  }
+}
